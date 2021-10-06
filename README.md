@@ -1,6 +1,6 @@
 # Bad Apple on JS Console but each frame is an API call
 
-1. Use pip install requirements.txt and install opencv + numpy (tested on python3.8.0)
+1. $ pip install requirements.txt and install opencv + numpy (tested on python3.8.0)
 2. Extract frames as ascii art from your video using main.py, give input path, output frames folder as arguments.
 (eg. $ python main.py --input badapple.mp4 --output server/frames --height 40)
 3. If all the frames are extracted, check server.php to see if the code is serving the correct path for extracted ascii texts.
