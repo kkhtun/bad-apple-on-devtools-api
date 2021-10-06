@@ -1,4 +1,4 @@
-# bad-apple-frames-api-ascii
+# Bad Apple on JS Console but each frame is an API call
 
 1. Use pip install requirements.txt and install opencv + numpy (tested on python3.8.0)
 2. Extract frames as ascii art from your video using main.py, give input path, output frames folder as arguments.
